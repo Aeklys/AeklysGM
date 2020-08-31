@@ -30,3 +30,8 @@ Ver 1.0.1
 - Fix of Buff Tab
 - Modifying Design
 - Change some function position
+
+Ver 1.1.0
+- Add log system
+- Add text file for store name in the list
+- fix minor issues
