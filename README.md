@@ -20,3 +20,8 @@ Ver 0.6.5
 - Added Function to creature tab
 - Added Function to Item and monster tab
 - Removing name edit function ( Bugged )
+
+Ver 1.0.0
+- Minor Fix
+- Adding warp
+- Change some function position
