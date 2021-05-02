@@ -33,5 +33,11 @@ Ver 1.0.1
 
 Ver 1.1.0
 - Add log system
+
+Ver 1.5
+- Add Title Tab
+- Add Character Tab
+- Reduce Lag
+- Optimisation of the code ( Clean )
 - Add text file for store name in the list
 - fix minor issues
